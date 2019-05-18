@@ -1,9 +1,9 @@
 README
 
 
-This is the main GitHub repository for code released to the public.
+This is the main GitHub repository for code intended to be released to the public.
 
 - Craig @ Botomate
 
 
-Last updated: 2018-03-21
+Last updated: 2019-05-18
